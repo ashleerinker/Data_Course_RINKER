@@ -1,1 +1,3 @@
-# Data_Course_RINKERThis README file contains information about my uploaded assignments
+# Data_Course_RINKER
+This README file contains information about my uploaded assignments
+
